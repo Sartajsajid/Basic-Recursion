@@ -1,0 +1,12 @@
+
+package basic;
+
+
+public class RecursionTest {
+    public static void main(String[] args) {
+        Recursion S = new Recursion();
+        int Result = S.fact(5);
+        System.out.println("Factorial of 5 is," +Result);
+    }
+    
+}
